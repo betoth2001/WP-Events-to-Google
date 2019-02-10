@@ -1,4 +1,4 @@
-# betWPevents
+# WP Events to Google
 Simple non-recurring events plugin for WordPress (WP). The intent is to take WP posts that have a specified categery and add/update them to a Google Calendar.  Posts must have a start and end date and time.
 
 ## WP Dependencies
